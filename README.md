@@ -8,6 +8,6 @@ This project is about Graph theory, Pokemons and more! we wrote a code for getti
 <h2>Short Video:</h2>
 <img src="https://github.com/ibrahim3999/Ex4_pokGame/blob/master/Ex4/pics/shortVideo.gif" alt="pokemon" width="750" height="500">
 
-##algo
--dfs
--dikstra
+## algo
+- dfs
+- dikstra
