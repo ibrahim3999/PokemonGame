@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Ex4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java-json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Ex4_Server_v0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gson-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/annotations-13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/json-simple-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/google-collections-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
