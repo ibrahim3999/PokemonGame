@@ -16,4 +16,4 @@ the project OOP_2021_Ex4 is an exercise in java OOP. the project dabbles in dire
 ## algo
 - DFS
 - DIKSTRA
--TSP
+- TSP
