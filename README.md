@@ -14,5 +14,6 @@ the project OOP_2021_Ex4 is an exercise in java OOP. the project dabbles in dire
 <img src="https://github.com/ibrahim3999/Ex4_pokGame/blob/master/Ex4/pics/shortVideo.gif" alt="pokemon" width="750" height="500">
 
 ## algo
-- dfs
-- dikstra
+- DFS
+- DIKSTRA
+-TSP
